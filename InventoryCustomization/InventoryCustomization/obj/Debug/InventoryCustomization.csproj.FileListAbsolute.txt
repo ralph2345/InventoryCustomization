@@ -1,0 +1,11 @@
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\InventoryCustomization\InventoryCustomization\bin\Debug\InventoryCustomization.exe.config
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\InventoryCustomization\InventoryCustomization\bin\Debug\InventoryCustomization.exe
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\InventoryCustomization\InventoryCustomization\bin\Debug\InventoryCustomization.pdb
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\InventoryCustomization\InventoryCustomization\obj\Debug\InventoryCustomization.csproj.AssemblyReference.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\InventoryCustomization\InventoryCustomization\obj\Debug\InventoryCustomization.csproj.SuggestedBindingRedirects.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\InventoryCustomization\InventoryCustomization\obj\Debug\InventoryCustomization.formAddProduct.resources
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\InventoryCustomization\InventoryCustomization\obj\Debug\InventoryCustomization.Properties.Resources.resources
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\InventoryCustomization\InventoryCustomization\obj\Debug\InventoryCustomization.csproj.GenerateResource.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\InventoryCustomization\InventoryCustomization\obj\Debug\InventoryCustomization.csproj.CoreCompileInputs.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\InventoryCustomization\InventoryCustomization\obj\Debug\InventoryCustomization.exe
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\InventoryCustomization\InventoryCustomization\obj\Debug\InventoryCustomization.pdb
